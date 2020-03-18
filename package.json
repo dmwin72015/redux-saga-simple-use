@@ -9,6 +9,9 @@
   "keywords": [
     "redux-saga"
   ],
+  "repository": {
+    "url": "https://github.com/dmwin72015/redux-saga-simple-use.git"
+  },
   "author": "dongmin",
   "license": "ISC",
   "dependencies": {
